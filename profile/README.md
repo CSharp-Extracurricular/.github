@@ -4,4 +4,4 @@
 
 По техническим вопросам: 
 * GMail: waffencode@gmail.com
-* Telegram: https://t.me/waffencode|@waffencode
+* Telegram: https://t.me/waffencode

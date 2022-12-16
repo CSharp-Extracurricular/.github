@@ -3,5 +3,5 @@
 На этой странице собраны все репозитории, в которых ведётся работа на факультативе.
 
 По техническим вопросам: 
-* GMail: waffencode@gmail.com
+* Gmail: waffencode@gmail.com
 * Telegram: https://t.me/waffencode
